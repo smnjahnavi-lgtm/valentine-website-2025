@@ -50,7 +50,6 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest girl in the world! 🎉",
         message: "Now come get your gift, a big  hug and a huge kiss!",
-        emojis: "💝"  // These will bounce around
     },
 
     // Color scheme for the website
