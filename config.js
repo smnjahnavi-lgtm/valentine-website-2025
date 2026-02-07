@@ -65,7 +65,6 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
 
-
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
